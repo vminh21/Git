@@ -15,18 +15,19 @@
   </a>
 </p>
 
-## 👋 Hi there, Good Day
+## 👨‍💻 Hello World! I'm Minh Dev
 
 <a href="https://github.com/vminh21">
   <img align="right" width="300" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Coding GIF" />
 </a>
 
-I am passionate about technology, especially in **Full Stack web development**. I enjoy solving complex problems with clean, elegant, and efficient code, taking projects all the way from the backend to the frontend. I enjoy learning, exploring new knowledge, and actively contributing to projects that bring value to the community. 
+I'm a **Full Stack Alchemist** 🧙‍♂️ turning caffeine and lines of code into robust, scalable, and visually stunning web applications. I love bridging the gap between complex backend logic and delightful frontend user experiences. Whether I'm wrestling with a tricky database query or polishing a React component to perfection, the thrill of building things from scratch is what keeps me going.
 
-- 🔭 I’m currently working on **FitPhysique Gym System** (A full-stack gym management platform with React, Node.js, MySQL, JWT, and Real-time features).
-- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**.
-- 💬 Ask me about **React, Node.js, PHP, and Full Stack Development**.
-- 📫 How to reach me: **minhdev@example.com**
+🌟 **My current coordinates:**
+- 🔭 **Cooking up:** **FitPhysique Gym System** — A powerhouse gym platform running on React, Node.js, MySQL, and Real-time WebSockets.
+- 🌱 **Leveling up in:** **Advanced System Design**, **Cloud Architecture**, and the art of distributed systems.
+- 💡 **Brainstorm with me about:** `React`, `Node.js`, `PHP`, or how to perfectly center a `div`.
+- 📬 **Ping me at:** **minhdev@example.com** (I reply faster than a Redis cache!)
 
 <br/>
 
