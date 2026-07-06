@@ -15,9 +15,18 @@ const SKILLS = [
 
 const PROJECTS = [
   {
-    title: 'FitPhysique Gym System',
-    desc: 'Hệ thống quản lý phòng gym full-stack với JWT authentication, dashboard thời gian thực và lịch PT tự động.',
-    tags: ['React', 'Node.js', 'MySQL', 'JWT'],
+    title: 'GPLX-600 Question Extractor',
+    desc: 'Công cụ trích xuất và xử lý dữ liệu 600 câu hỏi Giấy phép lái xe từ JSON sang Excel và Markdown hỗ trợ ôn thi.',
+    tags: ['Data Processing', 'JSON', 'Excel', 'Markdown'],
+    color: '#10b981',
+    icon: '🚗',
+    link: '#',
+    stars: 15,
+  },
+  {
+    title: 'FitPhysique Gym System (Mới hoàn thành 🎉)',
+    desc: 'Hệ thống quản lý phòng gym full-stack với JWT authentication, dashboard thời gian thực và lịch PT tự động. Dự án vừa được hoàn thiện và deploy thành công!',
+    tags: ['React', 'Node.js', 'MySQL', 'JWT', 'Real-time'],
     color: '#8b5cf6',
     icon: '💪',
     link: '#',
@@ -53,7 +62,7 @@ const SOCIALS = [
 const TIMELINE = [
   { year: '2024–nay', title: 'Full Stack Developer', org: 'Freelance', desc: 'Xây dựng web app với React & Node.js cho khách hàng trong nước.' },
   { year: '2023', title: 'Backend Intern', org: 'Tech Startup', desc: 'Phát triển REST API với PHP, tối ưu query MySQL tăng tốc 60%.' },
-  { year: '2021–2025', title: 'Sinh viên CNTT', org: 'Đại học Công nghệ', desc: 'Chuyên ngành Kỹ thuật phần mềm, GPA 3.6/4.0.' },
+  { year: '2021–2025', title: 'Sinh viên CNTT', org: 'Đại học Công nghệ Giao Thông Vận Tải', desc: 'Chuyên ngành Kỹ thuật phần mềm, GPA 3.6/4.0.' },
 ];
 
 /* ── SVG ICONS ── */
@@ -355,7 +364,7 @@ export default function App() {
       {/* STATS */}
       <section className="stats-bar">
         <div className="stats-inner">
-          <StatCounter value={15} label="Dự án hoàn thành" suffix="+" />
+          <StatCounter value={16} label="Dự án hoàn thành" suffix="+" />
           <div className="stat-divider" />
           <StatCounter value={3} label="Năm kinh nghiệm" suffix="+" />
           <div className="stat-divider" />
@@ -435,7 +444,7 @@ export default function App() {
           </div>
 
           <div className="tech-stack">
-            {['React', 'Vite', 'Node.js', 'Express', 'PHP', 'Laravel', 'MySQL', 'MongoDB', 'Redis', 'Docker', 'Git', 'Linux'].map(tech => (
+            {['React', 'Vite', 'Node.js', 'Express', 'Python', 'PHP', 'Laravel', 'MySQL', 'MongoDB', 'Redis', 'Docker', 'Git', 'Linux', 'Data Processing', 'JWT', 'Real-time'].map(tech => (
               <span key={tech} className="tech-badge">{tech}</span>
             ))}
           </div>
