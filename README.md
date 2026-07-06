@@ -21,12 +21,12 @@
   <img align="right" width="300" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Coding GIF" />
 </a>
 
-I'm a **Full Stack Alchemist** 🧙‍♂️ turning caffeine and lines of code into robust, scalable, and visually stunning web applications. I love bridging the gap between complex backend logic and delightful frontend user experiences. Whether I'm wrestling with a tricky database query or polishing a React component to perfection, the thrill of building things from scratch is what keeps me going.
+I'm a **Full Stack & AI Alchemist** 🧙‍♂️ turning caffeine and lines of code into intelligent, scalable, and visually stunning web applications. I love bridging the gap between complex backend logic, machine learning models, and delightful frontend user experiences. Whether I'm wrestling with a tricky database query, fine-tuning an AI model, or polishing a React component to perfection, the thrill of building smart systems from scratch is what keeps me going.
 
 🌟 **My current coordinates:**
 - 🔭 **Cooking up:** **FitPhysique Gym System** — A powerhouse gym platform running on React, Node.js, MySQL, and Real-time WebSockets.
-- 🌱 **Leveling up in:** **Advanced System Design**, **Cloud Architecture**, and the art of distributed systems.
-- 💡 **Brainstorm with me about:** `React`, `Node.js`, `PHP`, or how to perfectly center a `div`.
+- 🌱 **Leveling up in:** **Artificial Intelligence**, **Machine Learning**, **Advanced System Design**, and the art of distributed systems.
+- 💡 **Brainstorm with me about:** `React`, `Node.js`, `Python`, `AI/ML integrations`, or how to perfectly center a `div`.
 - 📬 **Ping me at:** **minhdev@example.com** (I reply faster than a Redis cache!)
 
 <br/>
@@ -34,8 +34,7 @@ I'm a **Full Stack Alchemist** 🧙‍♂️ turning caffeine and lines of code 
 ## 🐍 My Contributions
 
 <p align="center">
-  <!-- Lưu ý: Bạn cần setup GitHub Action github-contribution-grid-snake để ảnh này hoạt động -->
-  <img src="https://raw.githubusercontent.com/vminh21/vminh21/output/github-contribution-grid-snake.svg" alt="Snake animation contribution graph" />
+  <img src="https://raw.githubusercontent.com/vminh21/Git/output/github-contribution-grid-snake.svg" alt="Snake animation contribution graph" />
 </p>
 
 ## 📚 Language and Tools
