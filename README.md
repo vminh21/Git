@@ -124,9 +124,9 @@ I am an **AI Engineer** focused on **Computer Vision, Document AI (OCR), and Gen
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vminh21/vminh21/main/assets/snake-dark.svg?v=mascot2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vminh21/vminh21/main/assets/snake-light.svg?v=mascot2" />
-    <img alt="Snake eating CLAUDE" src="https://raw.githubusercontent.com/vminh21/vminh21/main/assets/snake-light.svg?v=mascot2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vminh21/vminh21/main/assets/snake-dark.svg?v=duo3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vminh21/vminh21/main/assets/snake-light.svg?v=duo3" />
+    <img alt="Snake eating CLAUDE" src="https://raw.githubusercontent.com/vminh21/vminh21/main/assets/snake-light.svg?v=duo3" />
   </picture>
 </p>
 
