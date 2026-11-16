@@ -9,11 +9,13 @@
   </p>
 
   <p align="center">
+    <a href="https://github.com/vminh21/vminh21/blob/main/CV.pdf"><img src="https://img.shields.io/badge/Resume-View_CV-EA4335?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
     <a href="mailto:nguyenvanminh859323@gmail.com"><img src="https://img.shields.io/badge/Email-nguyenvanminh859323%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/nvm21/"><img src="https://img.shields.io/badge/LinkedIn-nvm21-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/vminh21"><img src="https://img.shields.io/badge/GitHub-vminh21-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://img.shields.io/badge/Location-Vietnam-009688?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Ha_Noi%2C_Vietnam-009688?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Role-AI_Engineer-2563EB?style=flat-square&logo=openai&logoColor=white" alt="Role" />
+    <img src="https://img.shields.io/badge/Degree-B.S._Information_Technology_(UTT)-blue?style=flat-square" alt="Degree" />
   </p>
 
 </div>
@@ -118,13 +120,13 @@ I am an **AI Engineer** focused on **Computer Vision, Document AI (OCR), and Gen
 
 ---
 
-### 🐍 My Contributions
+### 🐍 Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vminh21/vminh21/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vminh21/vminh21/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation contribution graph" src="https://raw.githubusercontent.com/vminh21/vminh21/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vminh21/vminh21/main/assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vminh21/vminh21/main/assets/snake-light.svg" />
+    <img alt="Snake eating VMINH21" src="https://raw.githubusercontent.com/vminh21/vminh21/main/assets/snake-light.svg" />
   </picture>
 </p>
 
@@ -135,6 +137,9 @@ I am an **AI Engineer** focused on **Computer Vision, Document AI (OCR), and Gen
 I'm always open to collaborating on **Computer Vision, Document AI, LLM / RAG applications and AI Agents**.
 
 <p align="center">
+  <a href="https://github.com/vminh21/vminh21/blob/main/CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-View_CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
   <a href="mailto:nguyenvanminh859323@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
