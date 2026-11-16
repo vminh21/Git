@@ -82,7 +82,7 @@ I am an **AI Engineer** focused on **Computer Vision, Document AI (OCR), and Gen
 
 ---
 
-### 🐍 Snake
+### 🐍 My Contributions
 
 <p align="center">
   <picture>
